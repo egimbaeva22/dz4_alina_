@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Satoru",
+    "age": "27",
+    "photo": "https://i.pinimg.com/236x/5e/d1/a5/5ed1a5fd309cb1d52544cfc4019bd063.jpg"
+  },
+  {
+    "name": "Suguru",
+    "age": "26",
+    "photo": "https://i.pinimg.com/236x/8b/a2/14/8ba214c689d3876f6853189a0f0bac9c.jpg"
+  },
+  {
+    "name": "Shouko",
+    "age": "27",
+    "photo": "https://i.pinimg.com/236x/5a/4b/d7/5a4bd7c34592bd6b70b9ea8c0b4baf7c.jpg"
+  },
+  {
+    "name": "Rui",
+    "age": "19",
+    "photo": "https://i.pinimg.com/474x/3f/25/5c/3f255c090d70a05d10c30c02e1032769.jpg"
+  },
+  {
+    "name": "Allen",
+    "age": "16",
+    "photo": "https://i.pinimg.com/236x/75/bb/7a/75bb7a4e7592652d1d2ead105db1ed86.jpg"
+  },
+  {
+    "name": "Kanda",
+    "age": "19",
+    "photo": "https://i.pinimg.com/236x/8b/e4/b1/8be4b1158a1ae74c2d0afbcbf89b80cb.jpg"
+  }
+]

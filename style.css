@@ -1,0 +1,16 @@
+.persons {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.persons div {
+     text-align: center;
+}
+
+.persons img {
+     width: 200px;
+     height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
